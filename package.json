@@ -1,0 +1,29 @@
+{
+  "name": "threejs-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "@react-three/eslint-plugin": "^0.1.1",
+    "@vitejs/plugin-react": "4.3",
+    "eslint": "^9.9.1",
+    "eslint-plugin-react": "^7.35.0",
+    "globals": "^15.9.0",
+    "leva": "^0.9.34",
+    "vite": "^5.3.3",
+    "vite-plugin-restart": "^0.4.1"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.108.1",
+    "@react-three/fiber": "^8.16.8",
+    "r3f-perf": "^7.2.1",
+    "react": "18.3",
+    "react-dom": "18.3",
+    "three": "^0.166.1"
+  }
+}
